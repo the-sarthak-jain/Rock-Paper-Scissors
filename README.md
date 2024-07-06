@@ -20,3 +20,7 @@ A simple Rock, Paper, Scissors game implemented using HTML, CSS, and JavaScript.
 2. The computer will randomly select its move.
 3. The game's result will be displayed, indicating if you won, lost, or was a draw.
 4. Toggle between light and dark mode using the button at the top right corner.
+
+## Live Demo
+
+Check out the live demo: [Rock Paper Scissors Game](https://the-sarthak-jain.github.io/Rock-Paper-Scissors/)
