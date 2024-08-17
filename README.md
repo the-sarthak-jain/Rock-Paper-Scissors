@@ -24,3 +24,10 @@ A simple Rock, Paper, Scissors game implemented using HTML, CSS, and JavaScript.
 ## Live Demo
 
 Check out the live demo: [Rock Paper Scissors Game](https://the-sarthak-jain.github.io/Rock-Paper-Scissors/)
+
+---
+## Contact
+
+For any inquiries or support, please contact [Sarthak Jain](mailto:mail.sarthakjain@gmail.com).
+
+Thank you for checking out Rock Paper Scissors! If you have any questions or suggestions, feel free to reach out.
